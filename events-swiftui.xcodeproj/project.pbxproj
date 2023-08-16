@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		590C15D8290CE19E0014B5A4 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 590C15D7290CE19E0014B5A4 /* HomeView.swift */; };
 		590C15DC290CE3190014B5A4 /* EventContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 590C15DB290CE3190014B5A4 /* EventContentView.swift */; };
+		591843092A8D867000FA63FB /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 591843082A8D867000FA63FB /* README.md */; };
 		59FAEEE7290CBBCE00DD4E3A /* events_swiftuiApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59FAEEE6290CBBCE00DD4E3A /* events_swiftuiApp.swift */; };
 		59FAEEE9290CBBCE00DD4E3A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59FAEEE8290CBBCE00DD4E3A /* ContentView.swift */; };
 		59FAEEEB290CBBCF00DD4E3A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 59FAEEEA290CBBCF00DD4E3A /* Assets.xcassets */; };
@@ -24,6 +25,7 @@
 /* Begin PBXFileReference section */
 		590C15D7290CE19E0014B5A4 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		590C15DB290CE3190014B5A4 /* EventContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventContentView.swift; sourceTree = "<group>"; };
+		591843082A8D867000FA63FB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		59FAEEE3290CBBCE00DD4E3A /* events-swiftui.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "events-swiftui.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		59FAEEE6290CBBCE00DD4E3A /* events_swiftuiApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = events_swiftuiApp.swift; sourceTree = "<group>"; };
 		59FAEEE8290CBBCE00DD4E3A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 		59FAEEDA290CBBCE00DD4E3A = {
 			isa = PBXGroup;
 			children = (
+				591843082A8D867000FA63FB /* README.md */,
 				59FAEEE5290CBBCE00DD4E3A /* events-swiftui */,
 				59FAEEE4290CBBCE00DD4E3A /* Products */,
 			);
@@ -173,6 +176,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				591843092A8D867000FA63FB /* README.md in Resources */,
 				59FAEEEE290CBBCF00DD4E3A /* Preview Assets.xcassets in Resources */,
 				59FAEEEB290CBBCF00DD4E3A /* Assets.xcassets in Resources */,
 			);
